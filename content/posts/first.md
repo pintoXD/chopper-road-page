@@ -41,10 +41,20 @@ editPost:
 
 Me chamo Otto Álan, sou um cearense de Fortaleza, profissional de T.I e que acabou caindo no mundo das motos por causa da Haojue Chopper Road 150. Foi um amor à primeira vista, quando a vi na OLX em maio de 2024 não deu uma semana direito e já tinha comprado ela. 
 
-Peguei ela com aparentemente apenas 34 mil rodados em Maio/2024 e hoje já estou com quase 39 mil. Foi um golpe de sorte.  
+Peguei ela com aparentemente apenas 34 mil rodados em Maio/2024 e hoje já estou com quase 39 mil. Foi um golpe de sorte.
+
+Uma foto deu com ela numa viagem bate-e-volta à Guaramiranga/CE:
 
 
-![regular](images/regular.jpg)
+![adadasdasdasd](/images/me-and-her.jpg "eu-e-ela")
+
+
+E aqui uma foto da culpada sozinha hoje em dia, depois de eu trocar o guidão da CB400 pelo da RX180 e tirar a bolha:
+
+
+![soela](/images/so-ela.jpg "so-ela")
+
+
 
 <!-- ## Second -->
 
